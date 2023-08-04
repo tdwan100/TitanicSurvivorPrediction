@@ -24,8 +24,8 @@ To use this script, follow these steps:
 1. Clone this repository:
 
 ```
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/tdwan100/TitanicSurvivorPrediction.git
+cd TitanicSurvivorPrediction
 ```
 
 2. Make sure you have your training data in a CSV file with relevant columns ('Sex', 'Pclass', 'SibSp', 'Parch', and 'Fare'). Name this file appropriately, for example, `train.csv`.
