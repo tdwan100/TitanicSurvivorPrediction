@@ -1,5 +1,7 @@
 # Titanic Passenger Survival Prediction using Random Forest Classifier
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This is a Python script that uses a Random Forest Classifier to predict the survival of passengers aboard the Titanic based on various features. The script takes a CSV file containing the training data and another CSV file containing the test data with passenger information.
 
 ## Prerequisites
